@@ -1,0 +1,55 @@
+{
+  "categories" : [ null, {
+    "name" : "None"
+  } ],
+  "messages" : [ null, {
+    "content" : "Hello!",
+    "send_date" : "07/06/2018",
+    "sender_id" : 1
+  } ],
+  "messages_users" : [ null, {
+    "message_id" : 1,
+    "receiver_id" : 1
+  } ],
+  "orders" : [ null, {
+    "order_date" : "07/06/2018",
+    "status" : "Delivered",
+    "user_id" : 1
+  } ],
+  "products" : [ null, {
+    "description" : "so good",
+    "in_stock" : 5,
+    "name" : "Test",
+    "price" : 10.99
+  } ],
+  "products_categories" : [ null, {
+    "category_id" : 1,
+    "product_id" : 1
+  } ],
+  "products_orders" : [ null, {
+    "order_id" : 1,
+    "product_id" : 1,
+    "quantity" : 3
+  } ],
+  "roles" : [ null, {
+    "name" : "master"
+  } ],
+  "users" : [ null, {
+    "address" : "B9 L56 Rose St., Faraway Lands Subd.",
+    "cel_no" : "09123456789",
+    "city" : "Imus",
+    "email" : "theredfoxx@gmail.com",
+    "fname" : "Red",
+    "lname" : "Foxx",
+    "mname" : "Filo",
+    "password" : 12345,
+    "province" : "Cavite",
+    "tel_no" : 3456789,
+    "username" : "theredfoxx",
+    "zip" : 4103
+  } ],
+  "users_roles" : [ null, {
+    "role_id" : 1,
+    "user_id" : 1
+  } ]
+}
